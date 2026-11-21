@@ -1,0 +1,9 @@
+{
+  "name": "Moonlit Festival",
+  "rates": {"5star": 0.02, "4star": 0.18, "3star": 0.80},
+  "pool": {
+    "5star": ["Tsukiko, Moon Archer"],
+    "4star": ["Hinata, Lantern Mage", "Rin, Paper Blade"],
+    "3star": ["Training Sword", "Festival Mask", "Rice Cake"]
+  }
+}

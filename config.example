@@ -1,0 +1,3 @@
+# copy to config.local and fill in
+STAGING_API_URL=https://staging.example.invalid/api
+STAGING_API_SECRET_B64=<ask hayate>
